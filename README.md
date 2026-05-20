@@ -1,25 +1,12 @@
-📋 Gerador de Log de Turno — Tabas
+# 📋 Gerador de Log de Turno — Tabas
 
-Este projeto é uma ferramenta de front-end (Single Page Application) desenvolvida para otimizar, padronizar e agilizar o processo de passagem de bastão entre os turnos da equipe. A aplicação permite consolidar todas as ocorrências, pendências e status de infraestrutura do condomínio em um relatório limpo, dinâmico e totalmente formatado para envio direto no Slack.
+> ⚠️ **Nota de Confidencialidade e Acesso:** > Por questões de segurança da informação e proteção de dados estruturais da empresa, o código-fonte original desta ferramenta **não está disponível publicamente** neste repositório. 
+> 
+> O acesso ao gerador é **exclusivo para funcionários e colaboradores autorizados** mediante o compartilhamento do link restrito (Gist Secreto). Se você faz parte da equipe e precisa do arquivo para utilizar no seu turno, solicite o link diretamente com o administrador do projeto.
 
-✨ Principais Funcionalidades
-Identificação Dinâmica & Escala: Seleção rápida do período de transição com gerenciamento de presença da equipe que está assumindo o posto.
+---
 
-Gestão de Ocorrências com Autocomplete: Busca inteligente de unidades através de mapeamento interno de códigos VB e apartamentos.
+Este projeto é uma ferramenta de front-end desenvolvida para otimizar, padronizar e agilizar o processo de passagem de bastão entre os turnos da equipe. A aplicação permite consolidar todas as ocorrências, pendências e status de infraestrutura do condomínio em um relatório limpo, dinâmico e totalmente formatado para envio direto no **Slack**.
 
-Gerador Mágico de Descrições: Criação automatizada de textos padrões com base no tipo de ocorrência selecionada (Realocação 🔄, Empréstimo 📦, Manutenção 🛠️, etc.), minimizando erros de digitação.
-
-Monitoramento de Infraestrutura: Painel visual para reportar o status operacional de elevadores e detalhamento de falhas em tempo real.
-
-Persistência Local (Autosave): Integração com localStorage para garantir que nenhum dado seja perdido caso a aba do navegador seja fechada acidentalmente.
-
-Exportação Otimizada: Formatação nativa com markdown do Slack (emojis, blocos divisores e menções a usuários), pronta para copiar e colar.
-
-🚀 Como Utilizar
-Por ser uma ferramenta construída puramente com HTML5, CSS3 e JavaScript (Vanilla), não há necessidade de instalar dependências ou rodar servidores localmente:
-
-Faça o clone ou o download deste repositório.
-
-Abra o arquivo Gerador de Logs.html diretamente em qualquer navegador de sua preferência.
-
-Preencha as informações do turno e clique em Gerar log para o Slack.
+### 📖 Como utilizar a ferramenta?
+Se você já possui o link de acesso seguro ou o arquivo `.html` em sua máquina, consulte o nosso **[Guia de Uso Completo na Wiki do Repositório]([Aba-Wiki-Seu-Link](https://github.com/mick-felix/Gerador-de-Logs---Tabas/wiki/Guia-do-Usu%C3%A1rio))** para entender o passo a passo de preenchimento e exportação dos logs.
