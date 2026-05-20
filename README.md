@@ -1,4 +1,5 @@
 📋 Gerador de Log de Turno — Tabas
+
 Este projeto é uma ferramenta de front-end (Single Page Application) desenvolvida para otimizar, padronizar e agilizar o processo de passagem de bastão entre os turnos da equipe. A aplicação permite consolidar todas as ocorrências, pendências e status de infraestrutura do condomínio em um relatório limpo, dinâmico e totalmente formatado para envio direto no Slack.
 
 ✨ Principais Funcionalidades
@@ -22,5 +23,3 @@ Faça o clone ou o download deste repositório.
 Abra o arquivo Gerador de Logs.html diretamente em qualquer navegador de sua preferência.
 
 Preencha as informações do turno e clique em Gerar log para o Slack.
-
-Essa estrutura deixa claro o propósito do projeto para qualquer colega da empresa que acessar o repositório, além de destacar a facilidade de uso (por não precisar de setup ou backend).
